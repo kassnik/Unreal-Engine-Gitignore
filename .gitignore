@@ -1,0 +1,10 @@
+Binaries/* 
+Build/* 
+DerivedDataCache/* 
+Intermediate/* 
+Saved/* 
+WindowNoEditor/*
+YourProjectName.sdf 
+YourProjectName.sln 
+
+
